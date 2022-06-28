@@ -1,0 +1,67 @@
+.body{
+    background-color: darkred;
+}
+.nav-bar{
+    display:flex;
+    background-color:rgb(100, 0, 0);
+    color:white;
+    padding-top:20px;
+    padding-bottom:10px;
+}
+
+.festivals{
+    font-size:3vw;
+    color:rgb(220, 240, 220);
+    text-decoration:none;
+    padding-left:10vw;
+}
+.festivals1{
+    font-size:3vw;
+    color:rgb(220, 240, 220);
+    text-decoration:none;
+    padding-left:3vw;
+}
+.trad-dishes{
+    font-size:3vw;
+    color:rgb(233, 243, 233);
+    text-decoration:none;
+    padding-left:3vw;
+}
+.trad-clothes{
+    font-size:3vw;
+    color:rgb(224, 238, 224);
+    text-decoration:none;
+    padding-left:3vw;
+}
+.index{
+    font-size:3vw;
+    color:rgb(224, 238, 224);
+    text-decoration:none;
+    padding-left:10vw;
+}
+.footer{
+    margin:0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 3vw;
+    color: white;
+}
+.nadpis{
+    font-size:3vw;
+    color:rgb(220, 240, 220);
+}
+.text{
+    font-size:3vw;
+    color:rgb(220, 240, 220);
+}
+.image2{
+    width:35vw;
+    padding-left:25vw;
+    padding-top:10vw;
+}
+
+
+
+
+
+
